@@ -1,0 +1,9 @@
+{
+    "trainingSlash": false,
+    "rewrites": [
+        {
+            "source": "/api(.*)",
+            "destination": "/api/"
+        }
+    ]
+}
