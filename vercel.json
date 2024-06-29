@@ -1,5 +1,5 @@
 {
-    "trainingSlash": false,
+    "trailingSlash": false,
     "rewrites": [
         {
             "source": "/api(.*)",
